@@ -1,0 +1,91 @@
+﻿  Game.cpp
+  main.cpp
+  Npc.cpp
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Game.cpp(23,22): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(55,32): warning C4244:  '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(55,32): warning C4244:         with
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(55,32): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(55,32): warning C4244:             T=unsigned int
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(55,32): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(55,32): warning C4244:         and
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(55,32): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(55,32): warning C4244:             T=float
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(55,32): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(56,32): warning C4244:  '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(56,32): warning C4244:         with
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(56,32): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(56,32): warning C4244:             T=unsigned int
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(56,32): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(56,32): warning C4244:         and
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(56,32): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(56,32): warning C4244:             T=float
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(56,32): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(169,44): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(170,45): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(199,60): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(229,33): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(230,23): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(234,83): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(234,83): warning C4244:         with
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(234,83): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(234,83): warning C4244:             T=float
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(234,83): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(234,37): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(234,37): warning C4244:         with
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(234,37): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(234,37): warning C4244:             T=float
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(234,37): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(235,97): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(235,97): warning C4244:         with
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(235,97): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(235,97): warning C4244:             T=float
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(235,97): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(235,51): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(235,51): warning C4244:         with
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(235,51): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(235,51): warning C4244:             T=float
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(235,51): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(259,53): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(289,53): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(339,54): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Npc.cpp(383,53): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(56,32): warning C4244:  '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(56,32): warning C4244:         with
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(56,32): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(56,32): warning C4244:             T=unsigned int
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(56,32): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(56,32): warning C4244:         and
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(56,32): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(56,32): warning C4244:             T=float
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(56,32): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(57,32): warning C4244:  '=': conversion from 'T' to 'T', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(57,32): warning C4244:         with
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(57,32): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(57,32): warning C4244:             T=unsigned int
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(57,32): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(57,32): warning C4244:         and
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(57,32): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(57,32): warning C4244:             T=float
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(57,32): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(84,85): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(84,85): warning C4244:         with
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(84,85): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(84,85): warning C4244:             T=float
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(84,85): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(84,39): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(84,39): warning C4244:         with
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(84,39): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(84,39): warning C4244:             T=float
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(84,39): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(114,98): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(114,98): warning C4244:         with
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(114,98): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(114,98): warning C4244:             T=float
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(114,98): warning C4244:         ]
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(114,52): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(114,52): warning C4244:         with
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(114,52): warning C4244:         [
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(114,52): warning C4244:             T=float
+C:\Users\Aaron\Desktop\AI\Labs\Lab3\Lab3a\Player.cpp(114,52): warning C4244:         ]
+LINK : fatal error LNK1104: cannot open file 'sfml-graphics.lib'

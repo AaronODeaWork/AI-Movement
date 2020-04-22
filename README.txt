@@ -1,0 +1,1 @@
+if thor is not linked on your pc the thor file is in the folder and the names for the sdk is THOR_SDK

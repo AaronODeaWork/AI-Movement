@@ -1,0 +1,109 @@
+﻿  Game.cpp
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Game.cpp(23,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Game.cpp(115,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Game.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Game.cpp(159,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Game.cpp(171,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Game.cpp(204,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Game.cpp(212,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Game.cpp(226,42): warning C4552: '*': result of expression not used
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Game.cpp(227,42): warning C4552: '*': result of expression not used
+  main.cpp
+  Npc.cpp
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(55,32): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(56,32): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(174,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(175,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(212,60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(242,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(243,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(247,83): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(247,37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(248,97): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(248,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(272,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(302,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(352,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Npc.cpp(396,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Player.cpp(56,32): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Player.cpp(57,32): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Player.cpp(84,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Player.cpp(84,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Player.cpp(114,98): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Player.cpp(114,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Pvector.cpp
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Pvector.cpp(88,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Pvector.cpp(88,9): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Pvector.cpp(135,12): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Aaron\Desktop\Ai movements\Lab3a\Pvector.cpp(140,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Lab3a.vcxproj -> C:\Users\Aaron\Desktop\Ai movements\Debug\Lab3a.exe
